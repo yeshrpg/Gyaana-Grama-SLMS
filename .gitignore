@@ -1,0 +1,17 @@
+node_modules
+dist
+release
+out
+.vite
+*.db
+*.db-shm
+*.db-wal
+.env
+.DS_Store
+Thumbs.db
+*.log
+coverage
+.opencode
+release/
+dist/
+dist-electron/

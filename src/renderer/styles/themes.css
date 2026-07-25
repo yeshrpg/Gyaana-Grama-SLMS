@@ -1,0 +1,65 @@
+[data-theme="amber"] {
+  --color-app: 15, 17, 23;
+  --color-card: 26, 29, 39;
+  --color-border: 42, 45, 58;
+  --color-accent: 245, 166, 35;
+  --color-hover: 37, 40, 57;
+  --color-danger: 239, 68, 68;
+  --color-success: 16, 185, 129;
+  --color-warning: 230, 126, 34;
+}
+
+[data-theme="midnight"] {
+  --color-app: 7, 11, 26;
+  --color-card: 15, 26, 46;
+  --color-border: 30, 45, 74;
+  --color-accent: 56, 189, 248;
+  --color-hover: 37, 40, 57;
+  --color-danger: 239, 68, 68;
+  --color-success: 16, 185, 129;
+  --color-warning: 230, 126, 34;
+}
+
+[data-theme="emerald"] {
+  --color-app: 8, 23, 14;
+  --color-card: 15, 38, 24;
+  --color-border: 26, 61, 40;
+  --color-accent: 52, 211, 153;
+  --color-hover: 37, 40, 57;
+  --color-danger: 239, 68, 68;
+  --color-success: 16, 185, 129;
+  --color-warning: 230, 126, 34;
+}
+
+[data-theme="plum"] {
+  --color-app: 23, 10, 23;
+  --color-card: 42, 16, 42;
+  --color-border: 61, 31, 61;
+  --color-accent: 232, 121, 249;
+  --color-hover: 37, 40, 57;
+  --color-danger: 239, 68, 68;
+  --color-success: 16, 185, 129;
+  --color-warning: 230, 126, 34;
+}
+
+[data-theme="sapphire"] {
+  --color-app: 10, 10, 26;
+  --color-card: 19, 19, 58;
+  --color-border: 36, 37, 90;
+  --color-accent: 129, 140, 248;
+  --color-hover: 37, 40, 57;
+  --color-danger: 239, 68, 68;
+  --color-success: 16, 185, 129;
+  --color-warning: 230, 126, 34;
+}
+
+[data-theme="aurora"] {
+  --color-app: 0, 22, 25;
+  --color-card: 0, 35, 42;
+  --color-border: 0, 59, 71;
+  --color-accent: 34, 211, 238;
+  --color-hover: 37, 40, 57;
+  --color-danger: 239, 68, 68;
+  --color-success: 16, 185, 129;
+  --color-warning: 230, 126, 34;
+}
