@@ -109,9 +109,6 @@ GyaanaGrama-SLMS/
 ## Credits
 
 - **YESH** — Lead developer (Electron/React frontend & backend)
-- **Paul** — Flutter Android companion app
-- **Adithya** — Hardware validation and testing
-
 ## License
 
 MIT
